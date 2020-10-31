@@ -5,7 +5,7 @@ int fact(int);
 int main()
 {
 	float x;
-	printf("Enter degree-");
+	printf("Enter degree-gg3");
 	scanf("%f",&x);
 	x=x*(3.14/180);
 	cosx_func(x);
