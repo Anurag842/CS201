@@ -2,7 +2,7 @@
 main()
 {
 	int n,first=0,second=1,next,c;
-	printf("\nenter number of numbers to be printed-");
+	printf("\nenter number of numbers to be printed-gg2");
 	scanf("%d",&n);
 	for(c=0;c<n;c++)
 	{
