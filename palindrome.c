@@ -12,5 +12,5 @@ main()
 	if(rev==n)
 		printf("palindrome");
 	else
-		printf("not palindrome");
+		printf("not palindrome--gg");
 }
