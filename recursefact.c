@@ -3,7 +3,7 @@ long int fact (int);
 main()
 {
 	int n;long int f;
-	printf("enter number whose factorial is to be caclulated-");
+	printf("enter number whose ez factorial is to be caclulated-");
 	scanf("%d",&n);
 	f=fact(n);
 	printf("\n%d",f);
